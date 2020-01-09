@@ -110,3 +110,4 @@ func getRealtimeData(withSocket socket:SocketIOClient, completionBlock: @escapin
     }
     socket.connect()
 }
+// new commit 
